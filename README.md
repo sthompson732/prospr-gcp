@@ -1,6 +1,8 @@
 # ProSPr: Protein Structure Prediction
 Wendy M. Billings, Bryce Hedelius, Todd Millecam, David Wingate, Dennis Della Corte   
-Brigham Young University     
+Brigham Young University   
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 This repository currently contains a democratized implementation of the AlphaFold distance prediction network.  
 Please note that it is released under the LGPL-3.0 license.
@@ -19,7 +21,5 @@ All files are hosted on our ftp server including code dependencies: https://file
 If you have difficulty using plmDCA, then you can download a pre-compiled python package for it.  It will require matlab 2018a or matlab redistributable 2018a to run (redistributable is free to download). The following command will download the installer and all data associated with plmDCA (linux and unix systems):
 
 wget --recursive --reject "index.html" https://files.physics.byu.edu/data/prospr/potts-code/
-
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run)
 
 Author contact: dennis.dellacorte@byu.edu
