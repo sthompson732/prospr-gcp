@@ -2,7 +2,7 @@
 Wendy M. Billings, Bryce Hedelius, Todd Millecam, David Wingate, Dennis Della Corte   
 Brigham Young University   
 
-[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/?git_repo=https://bitbucket.org/shannonthompson/prospr/src/master/)
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run/)
 
 This repository currently contains a democratized implementation of the AlphaFold distance prediction network.  
 Please note that it is released under the LGPL-3.0 license.
